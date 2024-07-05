@@ -59,6 +59,10 @@ To run this application, you need to have Python 3 and PyQt6 installed. You can 
 
 ## Screenshots
 
+### Main Window
+
+![Main Window](screenshots/Main_Window.png)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug reports, please feel free to submit a pull request or open an issue.
